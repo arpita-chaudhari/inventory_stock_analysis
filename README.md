@@ -1,4 +1,4 @@
-# inventory_stock_analysis
+
 # Inventory & Demand Analysis
 
 ## Overview
